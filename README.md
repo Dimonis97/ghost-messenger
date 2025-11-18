@@ -33,5 +33,5 @@
 Создать полностью анонимный, защищённый мессенджер с встроенными Web3-платежами — новое поколение коммуникаций.
 
 ## 📬 Контакты
-Telegram: https://t.me/ghost_messenger_app  
-Twitter: https://x.com/ghostmessenger
+Telegram: https://t.me/+kIPiVNDwCDxhMTMy
+Twitter: https://x.com/dima_byh
